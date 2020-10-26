@@ -1,0 +1,20 @@
+{
+  "name": "datascraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Meenal Gangrade",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "puppeteer": "^5.4.0",
+    "supertest": "^5.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.1"
+  }
+}
